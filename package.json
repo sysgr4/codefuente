@@ -48,7 +48,7 @@
     "minimist": "^1.2.5",
     "napa": "^3.0.0",
     "popper.js": "^1.16.1",
-    "postcss": "^8.1.13",
+    "postcss": "^8.2.10",
     "replace-in-file": "^6.1.0",
     "stylelint": "^13.8.0",
     "stylelint-config-sass-guidelines": "^7.1.0",
