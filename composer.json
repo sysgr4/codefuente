@@ -14,7 +14,7 @@
         "php": ">=7.3.0",
         "academe/omnipay-authorizenetapi": "3.1.2",
         "adodb/adodb-php": "5.20.18",
-        "dompdf/dompdf": "0.8.6",
+        "dompdf/dompdf": "1.2.1",
         "ezyang/htmlpurifier": "4.13.0",
         "guzzlehttp/guzzle": "7.2.0",
         "kamermans/guzzle-oauth2-subscriber": "1.0.7",
